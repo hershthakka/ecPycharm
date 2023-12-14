@@ -1,4 +1,4 @@
-[THIS IS MY GITHUB REPO LINK]()
+[THIS IS MY GITHUB REPO LINK](https://github.com/hershthakka/ecPycharm.git)
 def factorial(n):
     if n < 0:
         return 0
